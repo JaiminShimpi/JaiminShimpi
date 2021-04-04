@@ -13,7 +13,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@ShimpiJaimin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShimpiJaimin)](https://twitter.com/ShimpiJaimin) [![Mail Badge](https://img.shields.io/badge/-JaiminShimpi-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Jaimin-Shimpi) [![Linkedin Badge](https://img.shields.io/badge/-Jaimin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiminshimpi/) [![Mail Badge](https://img.shields.io/badge/-@jaimin_shimpi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/jaimin_shimpi) [![Mail Badge](https://img.shields.io/badge/-Jaimin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaiminshimpi02@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ShimpiJaimin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShimpiJaimin)](https://twitter.com/ShimpiJaimin) [![Mail Badge](https://img.shields.io/badge/-JaiminShimpi-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UCG0gZb3Ckt-rY_5_jGqwgsw) [![Linkedin Badge](https://img.shields.io/badge/-Jaimin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiminshimpi/) [![Mail Badge](https://img.shields.io/badge/-@jaimin_shimpi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/jaimin_shimpi) [![Mail Badge](https://img.shields.io/badge/-Jaimin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaiminshimpi02@gmail.com)
 
 
 #### Top Technologies
