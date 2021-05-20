@@ -2,10 +2,10 @@
 
 :mailbox: Reach me out!
 
-- 🔭 I’m currently working on React Native Apps
+- 🔭 I’m currently working on Unity and React Native Apps
 - 🌱 I’m currently learning React JS and Native
-- 👯 I’m looking to collaborate on React JS
-- 🤔 I’m looking for help with Data Science
+- 👯 I’m looking to collaborate on Unity and Blender
+- 🤔 I’m looking for help with Mixed Reality
 - 💬 Ask me about anything
 - 📫 How to reach me: jaiminshimpi02@gmail.com
 - 😄 Pronouns: He/Him
