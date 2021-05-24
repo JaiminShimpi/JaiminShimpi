@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with Mixed Reality
 - 💬 Ask me about anything
 - 📫 How to reach me: jaiminshimpi02@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finished
 
 
@@ -60,13 +59,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JaiminShimpi)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
 
 #### Coding Stats
 
@@ -82,4 +74,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 #### Github Stats
 
 ![Jaimin's github stats](https://github-readme-stats.vercel.app/api?username=JaiminShimpi&count_private=true&theme=tokyonight&hide=contribs,prs)
-</details>
+
